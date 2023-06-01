@@ -6,5 +6,5 @@ Guia del libro maldito de git-github:
 |  #  | Guía |
 | --- | --- |
 | 1   | [Instalacion](https://github.com/megagringa/Git-GitHub/tree/main/INSTALACION) |
-| 2   | [Comandos]([Volver.](https://github.com/megagringa/Comandos_Basicos)) |
+| 2   | [Comandos](https://github.com/megagringa/Comandos_Basicos) |
 | 3 | -Construcción- |
