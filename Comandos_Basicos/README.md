@@ -9,4 +9,4 @@
 8) cp < nombre > < directorio >
 9) mv < nombre > < directorio >
 
-//Pagina 38
+//Pagina 39
