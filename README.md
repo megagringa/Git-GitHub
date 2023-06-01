@@ -1,7 +1,7 @@
 # Git-GitHub
 
 Guia del libro maldito de git-github:  
-- Unido solo para lso que estuvieron en esa clase
+- Unido solo para los que estuvieron en esa clase
 
 |  #  | Guía |
 | --- | --- |
