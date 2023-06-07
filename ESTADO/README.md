@@ -38,3 +38,15 @@ se mostrarán como cambios no rastreados.
 
 ### HEAD
 
+El concepto de HEAD también es importante en Git. HEAD
+es un puntero que apunta al commit actual en el repositorio. En otras palabras, HEAD indica la posición actual en la
+línea de tiempo del proyecto. Cuando se realiza un nuevo
+commit, HEAD se mueve al nuevo commit, convirtiéndose
+en el commit más actual. Esto nos permite movernos
+fácilmente entre las diferentes versiones del proyecto
+y ver exactamente qué cambios se realizaron en cada
+commit.
+
+---
+
+[Volver.](https://github.com/megagringa/Git-GitHub)

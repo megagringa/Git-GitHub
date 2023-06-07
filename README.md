@@ -11,4 +11,8 @@ Guia del libro maldito de git-github:
 | 4 | [Configuración](https://github.com/megagringa/Git-GitHub/tree/main/Configuracion_git) |
 | 5 | [Ramas](https://github.com/megagringa/Git-GitHub/tree/main/RAMAS) |
 | 6 | [Guardado](https://github.com/megagringa/Git-GitHub/tree/main/GUARDADO) |
-| 7 | -Estados- |
+| 7 | [Estados](https://github.com/megagringa/Git-GitHub/tree/main/ESTADO)|
+| 8 | [Operaciones](https://github.com/megagringa/Git-GitHub/tree/main/OPERACIONES) |
+| 9 | [Alias](https://github.com/megagringa/Git-GitHub/tree/main/ALIAS) |
+| 10 | [Ignorar](https://github.com/megagringa/Git-GitHub/tree/main/IGNORAR) |
+| 11 | -Comparación- |
