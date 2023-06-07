@@ -15,4 +15,5 @@ Guia del libro maldito de git-github:
 | 8 | [Operaciones](https://github.com/megagringa/Git-GitHub/tree/main/OPERACIONES) |
 | 9 | [Alias](https://github.com/megagringa/Git-GitHub/tree/main/ALIAS) |
 | 10 | [Ignorar](https://github.com/megagringa/Git-GitHub/tree/main/IGNORAR) |
-| 11 | -Comparación- |
+| 11 | [Comparacion](https://github.com/megagringa/Git-GitHub/tree/main/COMPARACION) |
+| 12 | -Desplazamientos-91- |
