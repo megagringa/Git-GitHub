@@ -16,4 +16,7 @@ Guia del libro maldito de git-github:
 | 9 | [Alias](https://github.com/megagringa/Git-GitHub/tree/main/ALIAS) |
 | 10 | [Ignorar](https://github.com/megagringa/Git-GitHub/tree/main/IGNORAR) |
 | 11 | [Comparacion](https://github.com/megagringa/Git-GitHub/tree/main/COMPARACION) |
-| 12 | -Desplazamientos-91- |
+| 12 | [Desplazamientos](https://github.com/megagringa/Git-GitHub/tree/main/DESPLAZAMIENTO) |
+| 13 | [Reset y log por referencia](https://github.com/megagringa/Git-GitHub/tree/main/reset_log_porReferencia) |
+| 14 | [Etiquetas](https://github.com/megagringa/Git-GitHub/tree/main/reset_log_ETIQUETAS) |
+| 15 | - Creación de ramas- |
