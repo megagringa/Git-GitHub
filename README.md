@@ -19,4 +19,5 @@ Guia del libro maldito de git-github:
 | 12 | [Desplazamientos](https://github.com/megagringa/Git-GitHub/tree/main/DESPLAZAMIENTO) |
 | 13 | [Reset y log por referencia](https://github.com/megagringa/Git-GitHub/tree/main/reset_log_porReferencia) |
 | 14 | [Etiquetas](https://github.com/megagringa/Git-GitHub/tree/main/reset_log_ETIQUETAS) |
-| 15 | - Creación de ramas- |
+| 15 | [Creación de ramas](https://github.com/megagringa/Git-GitHub/tree/main/creacion_Ramas) |
+| 114 | -Combinacion de ramas- |
